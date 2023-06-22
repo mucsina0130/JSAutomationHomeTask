@@ -1,0 +1,7 @@
+{
+    "logo": ".desktop-logo .header__logo.header__logo-dark",
+    "search_button": ".search-icon",
+    "search_input_field": ".header-search__input.frequent-searches__input",
+    "search_submit": ".header-search__submit-text",
+    "search_result_text": ".search-results__counter"
+}
